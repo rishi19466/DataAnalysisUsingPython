@@ -1,3 +1,3 @@
 # Heart Disease
-![image.png](Images/heart.png)<br><br>
+![image.png](Images/heart.jpg)<br><br>
 
