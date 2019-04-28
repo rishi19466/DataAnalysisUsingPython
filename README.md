@@ -6,8 +6,8 @@ The process of inspecting, cleaning, transforming and modelling data with object
 # Respiratory overview
 This respiratory is about cleaning and understanding data using python
 # Table of contents
-# Analysis of movies data                                                                                                                   
-# Analysis of heart disease
+**Analysis of movies data**                                                                                                                   
+**Analysis of heart disease**
 
 # *Movie Data analysis*
 ![image.png](image/movies.png)
