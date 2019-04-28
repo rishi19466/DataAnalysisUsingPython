@@ -21,3 +21,6 @@ The dataset comprises of __303 observations of 14 columns__. Below is a table sh
 | thal          | 3 = normal; 6 = fixed defect; 7 = reversable defect            |
 | target        | 1 or 0                                                         |
 # Project analysis
+![image.png](Images/Data_head.png)
+![image.png](Images/chest_pain_type.png)
+![image.png](Images/male_female_with_heart disease.png)
