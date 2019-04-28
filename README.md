@@ -16,3 +16,7 @@ Analysis of heart disease
 ### Larger the runtime better is the movie rating which means people love watching a good length movies
 # *Heart disease analysis*
 ![image.png](image/Heart.jpg)
+
+
+Mostly people suffer from heart disease after their mid 40s </br>
+most of the peron suffering from heart disease have cp =2 type of chest pain
